@@ -9,11 +9,13 @@
 
 		<item>
 			<title>Lorem 3</title>
+			<link>./index.html</link>
 			<description><![CDATA]></description>
 		</item>
 		
 		<item>
 			<title>Lorem 2</title>
+			<link>https://vsrald.github.io/RSS/</link>
 			<description><![CDATA]></description>
 		</item>
 
