@@ -1,0 +1,27 @@
+    <?xml version=»1.0″ encoding=»UTF-8″ ?>
+    <rss version=»2.0″>
+
+    <channel>
+
+		<title>El rey Lorem</title>
+		<link>url</link>
+		<description>Lorem ipsum diario</description>
+
+		<item>
+			<title>Lorem 3</title>
+			<description><![CDATA]></description>
+		</item>
+		
+		<item>
+			<title>Lorem 2</title>
+			<description><![CDATA]></description>
+		</item>
+
+		<item>
+			<title>Lorem 1</title>
+			<description><![CDATA]></description>
+		</item>
+
+    </channel>
+
+    </rss>

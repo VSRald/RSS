@@ -1,0 +1,14 @@
+*{
+  box-sizing:border-box;
+  font-family:arial;
+}
+body{
+  background-color:teal;
+  color:navy;
+}
+h1{
+  background-color:gold;
+}
+h2{
+  background-color:green;
+}
