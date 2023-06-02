@@ -9,18 +9,19 @@
 
 		<item>
 			<title>Lorem 3</title>
-			<link>./index.html</link>
+			<link>./articulo3.html</link>
 			<description><![CDATA]></description>
 		</item>
 		
 		<item>
 			<title>Lorem 2</title>
-			<link>https://vsrald.github.io/RSS/</link>
+			<link>./articulo2.html</link>
 			<description><![CDATA]></description>
 		</item>
 
 		<item>
 			<title>Lorem 1</title>
+			<link>./articulo1.html</link>
 			<description><![CDATA]></description>
 		</item>
 
